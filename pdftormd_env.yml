@@ -1,4 +1,4 @@
-name: pdftormd2
+name: pdftormd_env
 channels:
   - conda-forge
   - defaults
